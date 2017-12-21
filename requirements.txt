@@ -1,0 +1,4 @@
+requests>= 2.17.3
+requests-oauthlib>=0.8
+oauth>=1.0.1
+oauth2>=1.0.6
